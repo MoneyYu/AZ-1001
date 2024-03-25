@@ -11,15 +11,19 @@ GA: G-DXYJBX6BH8
     - Mail: [Money.Yu@microsoft.com](mailto:Money.Yu@microsoft.com)
     - LinkedIn: [@abc12207](https://www.linkedin.com/in/abc12207/)
 
-> Date: 20240314
-> Course ID: 58071
+:::success
+Date: 20240328
+Course ID: 60024
+:::
 
-> Course Survey: [https://aka.ms/az1001survey](https://aka.ms/az1001survey)
+:::info
+Course Survey: [https://aka.ms/az1001survey](https://aka.ms/az1001survey)
+:::
 
 ## Course Materials
-[Course AZ-1001 English version](https://learn.microsoft.com/en-us/training/courses/ai-050t00#course-syllabus)
-[Course AZ-1001 简体中文版本](https://learn.microsoft.com/zh-cn/training/courses/ai-050t00#course-syllabus)
-[Course AZ-1001 正體中文版本](https://learn.microsoft.com/zh-tw/training/courses/ai-050t00#course-syllabus)
+[Course AZ-1001 English version](https://learn.microsoft.com/en-us/training/paths/deploy-manage-containers-azure-kubernetes-service/)
+[Course AZ-1001 简体中文版本](https://learn.microsoft.com/zh-cn/training/paths/deploy-manage-containers-azure-kubernetes-service/)
+[Course AZ-1001 正體中文版本](https://learn.microsoft.com/zh-tw/training/paths/deploy-manage-containers-azure-kubernetes-service/)
 
 ## Infos
 [ESI Support](https://aka.ms/esisupport)
@@ -27,9 +31,15 @@ GA: G-DXYJBX6BH8
 ## Lab
 ### Skillable lab system
 [ESI Labs](https://aka.ms/esilab)
-> Training key: E74FBD1284E74E6E
-> > Only need to redeem once
-> > Valid for 6 months
+:::success
+Training key: E74FBD1284E74E6E
+:::
+
+:::info
+Only need to redeem once
+Valid for 6 months
+:::
+
 
 <!--Turtoial Video: https://media.yu.money/common/lods.html-->
 
@@ -45,68 +55,30 @@ GA: G-DXYJBX6BH8
 ![Certification Areas](https://mdcontent.yu.money/contents/upload_75d4129938cc2c7c13619905b6b82cd0.PNG)
 -->
 
-## M01 - Get started with Azure OpenAI Service
-[Generative AI](https://learn.microsoft.com/zh-cn/ai/playbook/technology-guidance/generative-ai/)
+## Infos
+[Azure Container Registry service tiers](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-skus)
 
-[Apply for access to the Azure OpenAI service](https://aka.ms/oaiapply)
+[Push container image to ACR](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-acr)
 
-[What is Azure OpenAI Service?](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview)
+[Make Azure container registry content publicly available](https://docs.microsoft.com/en-us/azure/container-registry/anonymous-pull-access)
 
-[Azure OpenAI Service pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/openai-service/)
+[Kubernetes core concepts for Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/concepts-clusters-workloads)
 
-[OpenAI Tokens](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview#tokens)
+[Deploy an AKS using the Azure CLI](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough)
 
-[OpenAI Tokenizer](https://platform.openai.com/tokenizer)
+[Scale applications in AKS](https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-scale)
 
-[What is provisioned throughput(TPU)?](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-throughput)
+[Storage options for applications in AKS](https://docs.microsoft.com/en-us/azure/aks/concepts-storage)
 
-[Azure OpenAI Service quotas and limits](https://learn.microsoft.com/en-us/azure/ai-services/openai/quotas-limits)
+[Authenticate with Azure Container Registry from Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/cluster-container-registry-integration?tabs=azure-cli)
 
-[Azure OpenAI Service frequently asked questions](https://learn.microsoft.com/en-us/azure/ai-services/openai/faq)
+[Create and configure an Azure Kubernetes Services (AKS) cluster to use virtual nodes](https://docs.microsoft.com/en-us/azure/aks/virtual-nodes)
 
-[Azure OpenAI Service models](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models)
+[virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet)
 
-[Azure OpenAI Studio](https://oai.azure.com/)
+[Kubenet and Azure CNI](https://learn.microsoft.com/en-us/azure/aks/configure-kubenet)
 
-[Responsible and trusted AI](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai#ethical)
-
-[Data, privacy, and security for Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)
-
-[Azure OpenAI Service powers the Microsoft Copilot ecosystem](https://azure.microsoft.com/en-us/blog/azure-openai-service-powers-the-microsoft-copilot-ecosystem/)
-
-[Microsoft CoPilot vs AzureAI/ChatGPT - The Differences Everyone Needs to Know About](https://www.linkedin.com/pulse/microsoft-copilot-vs-azureaichatgpt-differences-needs-rand-morimoto/)
-
-## M02 - Build natural language solutions with Azure OpenAI Service
-[Azure OpenAI supported programming languages SDKs](https://learn.microsoft.com/en-us/azure/ai-services/openai/supported-languages)
-
-[Understand embeddings in Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/understand-embeddings)
-
-[Quickstart: Get started using GPT-35-Turbo and GPT-4 with Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio)
-
-[Quickstart: Get started generating text using Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio)
-
-## M03 - Apply prompt engineering with Azure OpenAI Service
-[Introduction to prompt engineering](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering)
-
-[Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
-
-[Introduction to prompt engineering with GPT-4 Turbo with Vision](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/gpt-4-v-prompt-engineering)
-
-[System message framework and template recommendations for Large Language Models (LLMs)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/system-message)
-
-<!--
-## M04 - Generate code with Azure OpenAI Service
--->
-
-## M05 - Generate images with Azure OpenAI Service
-[Quickstart: Generate images with Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart?tabs=dalle3%2Ccommand-line&pivots=programming-language-studio)
-
-## M06 - Use your own data with Azure OpenAI Service
-[Azure OpenAI On Your Data](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search)
-
-[Azure OpenAI on your data with images using GPT-4 Turbo with Vision (preview) in Azure OpenAI studio](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/use-your-image-data)
-
-[Quickstart: Chat with Azure OpenAI models using your own data](https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio)
+[Simplified application autoscaling with Kubernetes Event-driven Autoscaling (KEDA) add-on (Preview)](https://learn.microsoft.com/en-us/azure/aks/keda-about)
 
 
 <!--
@@ -118,4 +90,4 @@ GA: G-DXYJBX6BH8
 -->
 
 ## Credential
-[AZ-1001 Applied Skills Credential](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/)
+[AZ-1001 Applied Skills Credential](https://learn.microsoft.com/en-us/credentials/applied-skills/deploy-containers-by-using-azure-kubernetes-service/)

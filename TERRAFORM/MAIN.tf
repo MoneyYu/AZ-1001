@@ -28,7 +28,7 @@ variable "user_passowrd" {
 }
 
 locals {
-  group_name  = "AI050-${var.group_postfix}"
+  group_name  = "AZ1001-${var.group_postfix}"
   location    = "eastus"
   random_str  = "dog"
   admin_oid   = "b8e50bc5-6559-4643-a003-2807a8d707f7"
